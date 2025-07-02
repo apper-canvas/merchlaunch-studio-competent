@@ -1,0 +1,71 @@
+[
+  {
+    "Id": 1,
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "CREATIVE MINDS",
+          "color": "#000000",
+          "fontSize": 32,
+          "fontWeight": "bold",
+          "position": { "x": 50, "y": 80 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "THINK DIFFERENT",
+          "color": "#6366F1",
+          "fontSize": 18,
+          "fontWeight": "normal",
+          "position": { "x": 80, "y": 130 }
+        }
+      ]
+    },
+    "pricing": 26.99,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "shareUrl": "https://merchlaunch.app/product/1"
+  },
+  {
+    "Id": 2,
+    "productType": "mug",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "COFFEE LOVER",
+          "color": "#8B4513",
+          "fontSize": 28,
+          "fontWeight": "bold",
+          "position": { "x": 40, "y": 60 }
+        }
+      ]
+    },
+    "pricing": 21.99,
+    "createdAt": "2024-01-18T14:45:00Z",
+    "shareUrl": "https://merchlaunch.app/product/2"
+  },
+  {
+    "Id": 3,
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "ADVENTURE AWAITS",
+          "color": "#10B981",
+          "fontSize": 30,
+          "fontWeight": "bold",
+          "position": { "x": 30, "y": 100 }
+        }
+      ]
+    },
+    "pricing": 24.99,
+    "createdAt": "2024-01-22T09:15:00Z",
+    "shareUrl": "https://merchlaunch.app/product/3"
+  }
+]

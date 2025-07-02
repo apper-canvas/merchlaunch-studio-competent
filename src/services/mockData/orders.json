@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "campaignId": 1,
+    "customerEmail": "john.doe@example.com",
+    "customerName": "John Doe",
+    "size": "L",
+    "quantity": 2,
+    "timestamp": "2024-01-16T08:30:00Z"
+  },
+  {
+    "Id": 2,
+    "campaignId": 1,
+    "customerEmail": "jane.smith@example.com",
+    "customerName": "Jane Smith",
+    "size": "M",
+    "quantity": 1,
+    "timestamp": "2024-01-16T14:22:00Z"
+  },
+  {
+    "Id": 3,
+    "campaignId": 2,
+    "customerEmail": "mike.wilson@example.com",
+    "customerName": "Mike Wilson",
+    "size": "Standard",
+    "quantity": 3,
+    "timestamp": "2024-01-19T11:45:00Z"
+  },
+  {
+    "Id": 4,
+    "campaignId": 1,
+    "customerEmail": "sarah.brown@example.com",
+    "customerName": "Sarah Brown",
+    "size": "S",
+    "quantity": 1,
+    "timestamp": "2024-01-20T16:10:00Z"
+  },
+  {
+    "Id": 5,
+    "campaignId": 3,
+    "customerEmail": "alex.garcia@example.com",
+    "customerName": "Alex Garcia",
+    "size": "XL",
+    "quantity": 2,
+    "timestamp": "2024-01-23T13:20:00Z"
+  },
+  {
+    "Id": 6,
+    "campaignId": 2,
+    "customerEmail": "lisa.martinez@example.com",
+    "customerName": "Lisa Martinez",
+    "size": "Standard",
+    "quantity": 1,
+    "timestamp": "2024-01-24T10:15:00Z"
+  },
+  {
+    "Id": 7,
+    "campaignId": 1,
+    "customerEmail": "david.johnson@example.com",
+    "customerName": "David Johnson",
+    "size": "L",
+    "quantity": 1,
+    "timestamp": "2024-01-25T12:30:00Z"
+  },
+  {
+    "Id": 8,
+    "campaignId": 3,
+    "customerEmail": "emma.davis@example.com",
+    "customerName": "Emma Davis",
+    "size": "M",
+    "quantity": 1,
+    "timestamp": "2024-01-26T09:45:00Z"
+  }
+]
