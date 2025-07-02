@@ -1,0 +1,322 @@
+[
+  {
+    "Id": 1,
+    "name": "Heart",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDUyQzMyIDUyIDggMzYgOCAyMEM4IDEyIDEyIDggMjAgOEMyNCA4IDI4IDEwIDMyIDE0QzM2IDEwIDQwIDggNDQgOEM1MiA4IDU2IDEyIDU2IDIwQzU2IDM2IDMyIDUyIDMyIDUyWiIgZmlsbD0iI0VGNDQ0NCIvPgo8L3N2Zz4K",
+    "defaultWidth": 40,
+    "defaultHeight": 40
+  },
+  {
+    "Id": 2,
+    "name": "Star",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDRMMzkuNiAyNEg2MEw0NC4yIDM2TDUxLjggNTZMMzIgNDRMMTIuMiA1NkwxOS44IDM2TDQgMjRIMjQuNEwzMiA0WiIgZmlsbD0iI0ZCQkYyNCIvPgo8L3N2Zz4K",
+    "defaultWidth": 35,
+    "defaultHeight": 35
+  },
+  {
+    "Id": 3,
+    "name": "Lightning",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI0IDhIMTJMMjAgMzJIMzJMMjQgNTZIMzZMMjggMzJIMTZMMjQgOFoiIGZpbGw9IiNGQkJGMjQiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 30,
+    "defaultHeight": 45
+  },
+  {
+    "Id": 4,
+    "name": "Crown",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggNDhINTZMMTYgMTZMMzIgMjRMNDggMTZMOCA0OFoiIGZpbGw9IiNGQkJGMjQiLz4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iNCIgZmlsbD0iI0ZCQkYyNCIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjEyIiByPSI0IiBmaWxsPSIjRkJCRjI0Ii8+CjxjaXJjbGUgY3g9IjQ4IiBjeT0iMTYiIHI9IjQiIGZpbGw9IiNGQkJGMjQiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 50,
+    "defaultHeight": 40
+  },
+  {
+    "Id": 5,
+    "name": "Sunburst",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMTIiIGZpbGw9IiNGQkJGMjQiLz4KPGxpbmUgeDE9IjMyIiB5MT0iNCIgeDI9IjMyIiB5Mj0iMTIiIHN0cm9rZT0iI0ZCQkYyNCIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxsaW5lIHgxPSI1OCIgeTE9IjMyIiB4Mj0iNTAiIHkyPSIzMiIgc3Ryb2tlPSIjRkJCRjI0IiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjMyIiB5MT0iNjAiIHgyPSIzMiIgeTI9IjUyIiBzdHJva2U9IiNGQkJGMjQiIHN0cm9rZS13aWR0aD0iMiIvPgo8bGluZSB4MT0iNiIgeTE9IjMyIiB4Mj0iMTQiIHkyPSIzMiIgc3Ryb2tlPSIjRkJCRjI0IiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 60,
+    "defaultHeight": 60
+  },
+  {
+    "Id": 6,
+    "name": "Arrow Up",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhMMTYgMjRIMjRWNTZIMzJWNTZINDBWMjRINDhMMzIgOFoiIGZpbGw9IiM2MzY2RjEiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 30,
+    "defaultHeight": 45
+  },
+  {
+    "Id": 7,
+    "name": "Diamond",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhMMTYgMjRMMzIgNTZMNDggMjRMMzIgOFoiIGZpbGw9IiM4QjVDRjYiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 40,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 8,
+    "name": "Flower",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iNiIgZmlsbD0iI0ZCQkYyNCIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjE2IiByPSI4IiBmaWxsPSIjRUY0NDQ0Ii8+CjxjaXJjbGUgY3g9IjQ4IiBjeT0iMzIiIHI9IjgiIGZpbGw9IiNFRjQ0NDQiLz4KPGNpcmNsZSBjeD0iMzIiIGN5PSI0OCIgcj0iOCIgZmlsbD0iI0VGNDQ0NCIvPgo8Y2lyY2xlIGN4PSIxNiIgY3k9IjMyIiByPSI4IiBmaWxsPSIjRUY0NDQ0Ii8+CjxjaXJjbGUgY3g9IjQ0IiBjeT0iMjAiIHI9IjYiIGZpbGw9IiNFRjQ0NDQiLz4KPGNpcmNsZSBjeD0iNDQiIGN5PSI0NCIgcj0iNiIgZmlsbD0iI0VGNDQ0NCIvPgo8Y2lyY2xlIGN4PSIyMCIgY3k9IjQ0IiByPSI2IiBmaWxsPSIjRUY0NDQ0Ii8+CjxjaXJjbGUgY3g9IjIwIiBjeT0iMjAiIHI9IjYiIGZpbGw9IiNFRjQ0NDQiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 55,
+    "defaultHeight": 55
+  },
+  {
+    "Id": 9,
+    "name": "Mountain",
+    "category": "graphics",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggNDhMMjQgMTZMMzIgMjRMNDggOEw1NiA0OEg4WiIgZmlsbD0iIzEwQjk4MSIvPgo8L3N2Zz4K",
+    "defaultWidth": 60,
+    "defaultHeight": 45
+  },
+  {
+    "Id": 10,
+    "name": "Wave",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTAgMzJDOCAyNSAxNiAyNSAyNCAzMkMzMiAzOSA0MCAzOSA0OCAzMkM1NiAyNSA2NCAyNSA2NCAzMlY0OEgwVjMyWiIgZmlsbD0iIzA4OTFCMiIvPgo8L3N2Zz4K",
+    "defaultWidth": 70,
+    "defaultHeight": 25
+  },
+  {
+    "Id": 11,
+    "name": "Fire",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhDMjggMTYgMjAgMjQgMjAgMzJDMjAgNDQgMjYuNCA1MiAzMiA1MkMzNy42IDUyIDQ0IDQ0IDQ0IDMyQzQ0IDI0IDM2IDE2IDMyIDhaTTMyIDQwQzI4IDQwIDI2IDM2IDI2IDMyQzI2IDI4IDI4IDI0IDMyIDI0QzM0IDI2IDM2IDI4IDM2IDMyQzM2IDM2IDM0IDQwIDMyIDQwWiIgZmlsbD0iI0Y1OUUwQiIvPgo8L3N2Zz4K",
+    "defaultWidth": 35,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 12,
+    "name": "Leaf",
+    "category": "graphics",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhDNDUgOCA1NiAxNiA1NiAzMkM1NiA0OCA0NSA1NiAzMiA1NkMxOSA1NiA4IDQ4IDggMzJDOCAxNiAxOSA4IDMyIDhaTTMyIDMyTDQ0IDIwTDMyIDEyTDIwIDIwTDMyIDMyWiIgZmlsbD0iIzEwQjk4MSIvPgo8L3N2Zz4K",
+    "defaultWidth": 45,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 13,
+    "name": "Peace",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMjQiIHN0cm9rZT0iIzYzNjZGMSIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzMiIgeTE9IjgiIHgyPSIzMiIgeTI9IjU2IiBzdHJva2U9IiM2MzY2RjEiIHN0cm9rZS13aWR0aD0iNCIvPgo8bGluZSB4MT0iMzIiIHkxPSIzMiIgeDI9IjQ3IiB5Mj0iNDciIHN0cm9rZT0iIzYzNjZGMSIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxsaW5lIHgxPSIzMiIgeTE9IjMyIiB4Mj0iMTciIHkyPSI0NyIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjQiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 50,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 14,
+    "name": "Music Note",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTYiIGN5PSI0OCIgcj0iOCIgZmlsbD0iIzYzNjZGMSIvPgo8cmVjdCB4PSIyNCIgeT0iMTYiIHdpZHRoPSI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjNjM2NkYxIi8+CjxwYXRoIGQ9Ik0yOCAxNkM0MCA4IDUyIDEyIDUyIDI0VjI4SDI4VjE2WiIgZmlsbD0iIzYzNjZGMSIvPgo8L3N2Zz4K",
+    "defaultWidth": 40,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 15,
+    "name": "Sparkles",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhMMzQgMTRIMzJIMzBMMzIgOFoiIGZpbGw9IiNGQkJGMjQiLz4KPHBhdGggZD0iTTQ4IDIwTDUwIDI2SDQ4SDQ2TDQ4IDIwWiIgZmlsbD0iI0ZCQkYyNCIvPgo8cGF0aCBkPSJNMTYgMzJMMTggMzhIMTZIMTRMMTYgMzJaIiBmaWxsPSIjRkJCRjI0Ii8+CjxwYXRoIGQ9Ik00MCA0OEw0MiA1NEg0MEgzOEw0MCA0OFoiIGZpbGw9IiNGQkJGMjQiLz4KPHBhdGggZD0iTTI0IDEyTDI2IDE4SDI0SDIyTDI0IDEyWiIgZmlsbD0iI0ZCQkYyNCIvPgo8L3N2Zz4K",
+    "defaultWidth": 45,
+    "defaultHeight": 45
+  },
+  {
+    "Id": 16,
+    "name": "Shield",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhMMTIgMTZWMzJDMTIgNDggMzIgNTYgMzIgNTZDMzIgNTYgNTIgNDggNTIgMzJWMTZMMzIgOFoiIGZpbGw9IiM2MzY2RjEiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 45,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 17,
+    "name": "Quote Left",
+    "category": "text-effects",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIwIDMySDEyTDE2IDI0SDE2QzIwIDI0IDI0IDIwIDI0IDE2QzI0IDEyIDIwIDggMTYgOEMxMiA4IDggMTIgOCAxNkM4IDI0IDEyIDMyIDIwIDMyWk00OCAzMkg0MEw0NCAyNEg0NEM0OCAyNCA1MiAyMCA1MiAxNkM1MiAxMiA0OCA4IDQ0IDhDNDAgOCAzNiAxMiAzNiAxNkMzNiAyNCA0MCAzMiA0OCAzMloiIGZpbGw9IiM2MzY2RjEiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 50,
+    "defaultHeight": 30
+  },
+  {
+    "Id": 18,
+    "name": "Quote Right",
+    "category": "text-effects",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQ0IDMySDUyTDQ4IDQwSDQ4QzQ0IDQwIDQwIDQ0IDQwIDQ4QzQwIDUyIDQ0IDU2IDQ4IDU2QzUyIDU2IDU2IDUyIDU2IDQ4QzU2IDQwIDUyIDMyIDQ0IDMyWk0xNiAzMkgyNEwyMCA0MEgyMEMxNiA0MCAxMiA0NCAxMiA0OEMxMiA1MiAxNiA1NiAyMCA1NkMyNCA1NiAyOCA1MiAyOCA0OEMyOCA0MCAyNCAzMiAxNiAzMloiIGZpbGw9IiM2MzY2RjEiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 50,
+    "defaultHeight": 30
+  },
+  {
+    "Id": 19,
+    "name": "Vintage Frame",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iOCIgeT0iOCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiBzdHJva2U9IiM4QjVDRjYiIHN0cm9rZS13aWR0aD0iNCIvPgo8cmVjdCB4PSIxMiIgeT0iMTIiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgc3Ryb2tlPSIjOEI1Q0Y2IiBzdHJva2Utd2lkdGg9IjIiLz4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMiIgZmlsbD0iIzhCNUNGNiIvPgo8Y2lyY2xlIGN4PSI0OCIgY3k9IjE2IiByPSIyIiBmaWxsPSIjOEI1Q0Y2Ii8+CjxjaXJjbGUgY3g9IjQ4IiBjeT0iNDgiIHI9IjIiIGZpbGw9IiM4QjVDRjYiLz4KPGNpcmNsZSBjeD0iMTYiIGN5PSI0OCIgcj0iMiIgZmlsbD0iIzhCNUNGNiIvPgo8L3N2Zz4K",
+    "defaultWidth": 80,
+    "defaultHeight": 80
+  },
+  {
+    "Id": 20,
+    "name": "Circle Badge",
+    "category": "graphics",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMjQiIGZpbGw9IiNFRjQ0NDQiLz4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMTYiIGZpbGw9IiNGRkZGRkYiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 60,
+    "defaultHeight": 60
+  },
+  {
+    "Id": 21,
+    "name": "Rocket",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhDNDAgOCA0OCAyMCA0OCAzMkw0MCA0MEgzMkgyNEwxNiAzMkMxNiAyMCAyNCA4IDMyIDhaIiBmaWxsPSIjRUY0NDQ0Ii8+CjxjaXJjbGUgY3g9IjMyIiBjeT0iMjQiIHI9IjQiIGZpbGw9IiNGRkZGRkYiLz4KPHBhdGggZD0iTTE2IDQ4TDI0IDQwSDMyTDI0IDQ4QzI0IDUyIDIwIDU2IDE2IDU2QzEyIDU2IDggNTIgOCA0OEwxNiA0OFoiIGZpbGw9IiNGQkJGMjQiLz4KPHBhdGggZD0iTTQ4IDE2TDQwIDI0VjMyTDQ4IDI0QzUyIDI0IDU2IDIwIDU2IDE2QzU2IDEyIDUyIDggNDggOFYxNloiIGZpbGw9IiNGQkJGMjQiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 50,
+    "defaultHeight": 55
+  },
+  {
+    "Id": 22,
+    "name": "Trophy",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMjAiIHk9IjgiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iI0ZCQkYyNCIvPgo8cmVjdCB4PSI4IiB5PSIxNiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjgiIGZpbGw9IiNGQkJGMjQiLz4KPHJlY3QgeD0iNDQiIHk9IjE2IiB3aWR0aD0iMTIiIGhlaWdodD0iOCIgZmlsbD0iI0ZCQkYyNCIvPgo8cmVjdCB4PSIyNCIgeT0iNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSI4IiBmaWxsPSIjRkJCRjI0Ii8+CjxsaW5lIHgxPSIzMiIgeTE9IjMyIiB4Mj0iMzIiIHkyPSI0OCIgc3Ryb2tlPSIjRkJCRjI0IiBzdHJva2Utd2lkdGg9IjQiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 50,
+    "defaultHeight": 55
+  },
+  {
+    "Id": 23,
+    "name": "Target",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMjQiIHN0cm9rZT0iI0VGNDQ0NCIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjMyIiBjeT0iMzIiIHI9IjE2IiBzdHJva2U9IiNFRjQ0NDQiIHN0cm9rZS13aWR0aD0iNCIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI4IiBmaWxsPSIjRUY0NDQ0Ii8+Cjwvc3ZnPgo=",
+    "defaultWidth": 55,
+    "defaultHeight": 55
+  },
+  {
+    "Id": 24,
+    "name": "Compass",
+    "category": "graphics",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMjQiIHN0cm9rZT0iIzYzNjZGMSIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxwYXRoIGQ9Ik0zMiAxNkw0MCAzMkwzMiA0OEwyNCAzMkwzMiAxNloiIGZpbGw9IiNFRjQ0NDQiLz4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iNCIgZmlsbD0iIzYzNjZGMSIvPgo8L3N2Zz4K",
+    "defaultWidth": 55,
+    "defaultHeight": 55
+  },
+  {
+    "Id": 25,
+    "name": "Geometric Circle",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMjQiIHN0cm9rZT0iIzhCNUNGNiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CjxjaXJjbGUgY3g9IjMyIiBjeT0iMzIiIHI9IjE2IiBzdHJva2U9IiM4QjVDRjYiIHN0cm9rZS13aWR0aD0iMiIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI4IiBzdHJva2U9IiM4QjVDRjYiIHN0cm9rZS13aWR0aD0iMiIvPgo8L3N2Zz4K",
+    "defaultWidth": 60,
+    "defaultHeight": 60
+  },
+  {
+    "Id": 26,
+    "name": "Coffee Bean",
+    "category": "graphics",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGVsbGlwc2UgY3g9IjMyIiBjeT0iMzIiIHJ4PSIxNiIgcnk9IjI0IiBmaWxsPSIjOEI0NTEzIi8+CjxwYXRoIGQ9Ik0zMiA4QzI0IDggMTYgMTYgMTYgMzJDMTYgNDggMjQgNTYgMzIgNTZDNDAgNTYgNDggNDggNDggMzJDNDggMTYgNDAgOCAzMiA4Wk0zMiAxNkMzNiAxNiA0MCAyMCA0MCAyNEgzMkgyNEMyNCAgTTI4IDE2IDMyIDE2WiIgZmlsbD0iI0E1MEM1MiIvPgo8L3N2Zz4K",
+    "defaultWidth": 35,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 27,
+    "name": "Ribbon Banner",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMjRINTZMNTIgMzJMNTYgNDBIOEwxMiAzMkw4IDI0WiIgZmlsbD0iI0VGNDQ0NCIvPgo8L3N2Zz4K",
+    "defaultWidth": 70,
+    "defaultHeight": 25
+  },
+  {
+    "Id": 28,
+    "name": "Geometric Triangle",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhMNTYgNDhIOEwzMiA4WiIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjQiLz4KPHBhdGggZD0iTTMyIDE2TDQ4IDQwSDE2TDMyIDE2WiIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 55,
+    "defaultHeight": 45
+  },
+  {
+    "Id": 29,
+    "name": "Underline Swoosh",
+    "category": "text-effects",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMzJDMTYgMjggMjQgMjggMzIgMzJDNDAgMzYgNDggMzYgNTYgMzJDNTYgMzYgNTIgNDAgNDQgNDBDMzYgNDAgMjggNDAgMjAgNDBDMTIgNDAgOCAzNiA4IDMyWiIgZmlsbD0iI0Y1OUUwQiIvPgo8L3N2Zz4K",
+    "defaultWidth": 60,
+    "defaultHeight": 15
+  },
+  {
+    "Id": 30,
+    "name": "Highlight Line",
+    "category": "text-effects",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iOCIgeT0iMjgiIHdpZHRoPSI0OCIgaGVpZ2h0PSI4IiBmaWxsPSIjRkJCRjI0IiBvcGFjaXR5PSIwLjciLz4KPC9zdmc+Cg==",
+    "defaultWidth": 60,
+    "defaultHeight": 10
+  },
+  {
+    "Id": 31,
+    "name": "Burst",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhMMzYgMjBMMzIgMzJMMzYgNDRMMzIgNTZMMjggNDRMMzIgMzJMMjggMjBMMzIgOFoiIGZpbGw9IiNGNTlFMEIiLz4KPHBhdGggZD0iTTggMzJMMjAgMjhMMzIgMzJMNDQgMjhMNTYgMzJMNDQgMzZMMzIgMzJMMjAgMzZMOCAzMloiIGZpbGw9IiNGNTlFMEIiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 55,
+    "defaultHeight": 55
+  },
+  {
+    "Id": 32,
+    "name": "Vintage Star",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDRMMzkuNiAyNEg2MEw0NC4yIDM2TDUxLjggNTZMMzIgNDRMMTIuMiA1NkwxOS44IDM2TDQgMjRIMjQuNEwzMiA0WiIgc3Ryb2tlPSIjOEI1Q0Y2IiBzdHJva2Utd2lkdGg9IjMiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 50,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 33,
+    "name": "Circle Dots",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSI4IiByPSI0IiBmaWxsPSIjNjM2NkYxIi8+CjxjaXJjbGUgY3g9IjQ4IiBjeT0iMTYiIHI9IjQiIGZpbGw9IiM2MzY2RjEiLz4KPGNpcmNsZSBjeD0iNTYiIGN5PSIzMiIgcj0iNCIgZmlsbD0iIzYzNjZGMSIvPgo8Y2lyY2xlIGN4PSI0OCIgY3k9IjQ4IiByPSI0IiBmaWxsPSIjNjM2NkYxIi8+CjxjaXJjbGUgY3g9IjMyIiBjeT0iNTYiIHI9IjQiIGZpbGw9IiM2MzY2RjEiLz4KPGNpcmNsZSBjeD0iMTYiIGN5PSI0OCIgcj0iNCIgZmlsbD0iIzYzNjZGMSIvPgo8Y2lyY2xlIGN4PSI4IiBjeT0iMzIiIHI9IjQiIGZpbGw9IiM2MzY2RjEiLz4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iNCIgZmlsbD0iIzYzNjZGMSIvPgo8L3N2Zz4K",
+    "defaultWidth": 60,
+    "defaultHeight": 60
+  },
+  {
+    "Id": 34,
+    "name": "Feather",
+    "category": "graphics",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUyIDhDNTIgOCA0MCAyMCAzMiAzMkwyMCA0NEw4IDU2TDE2IDQ4TDI4IDM2QzQwIDI4IDUyIDggNTIgOFoiIGZpbGw9IiM2MzY2RjEiLz4KPGxpbmUgeDE9IjMyIiB5MT0iMzIiIHgyPSI0NCIgeTI9IjIwIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMiIvPgo8bGluZSB4MT0iMjgiIHkxPSIzNiIgeDI9IjQwIiB5Mj0iMjQiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSIxIi8+CjxsaW5lIHgxPSIyNCIgeTE9IjQwIiB4Mj0iMzYiIHkyPSIyOCIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 45,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 35,
+    "name": "Infinity",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2IDIwQzggMjAgOCAyOCAxNiAzNkMyNCA0NCAzNiA0MCA0MCA0NEMzNiA0MCAyNCA0NCA0MCAzNkM0MCA0NCA0OCA0NCA1NiAzNkM2NCAyOCA2NCAyMCA1NiAyOEM0OCAyMCA0MCAyNCA0MCAyOEMzNiAyNCAyNCAyMCAxNiAyMFoiIGZpbGw9IiM2MzY2RjEiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 60,
+    "defaultHeight": 30
+  },
+  {
+    "Id": 36,
+    "name": "Badge Ribbon",
+    "category": "graphics",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIyNCIgcj0iMTYiIGZpbGw9IiNFRjQ0NDQiLz4KPHBhdGggZD0iTTI0IDQwVjU2TDMyIDUyTDQwIDU2VjQwQzM2IDQ0IDI4IDQ0IDI0IDQwWiIgZmlsbD0iI0VGNDQ0NCIvPgo8L3N2Zz4K",
+    "defaultWidth": 40,
+    "defaultHeight": 55
+  },
+  {
+    "Id": 37,
+    "name": "Dot Pattern",
+    "category": "decorative",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMiIgZmlsbD0iIzYzNjZGMSIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjE2IiByPSIyIiBmaWxsPSIjNjM2NkYxIi8+CjxjaXJjbGUgY3g9IjQ4IiBjeT0iMTYiIHI9IjIiIGZpbGw9IiM2MzY2RjEiLz4KPGNpcmNsZSBjeD0iMTYiIGN5PSIzMiIgcj0iMiIgZmlsbD0iIzYzNjZGMSIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIyIiBmaWxsPSIjNjM2NkYxIi8+CjxjaXJjbGUgY3g9IjQ4IiBjeT0iMzIiIHI9IjIiIGZpbGw9IiM2MzY2RjEiLz4KPGNpcmNsZSBjeD0iMTYiIGN5PSI0OCIgcj0iMiIgZmlsbD0iIzYzNjZGMSIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjQ4IiByPSIyIiBmaWxsPSIjNjM2NkYxIi8+CjxjaXJjbGUgY3g9IjQ4IiBjeT0iNDgiIHI9IjIiIGZpbGw9IiM2MzY2RjEiLz4KPC9zdmc+Cg==",
+    "defaultWidth": 50,
+    "defaultHeight": 50
+  },
+  {
+    "Id": 38,
+    "name": "Check Mark",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDMyTDI0IDQ0TDUyIDIwIiBzdHJva2U9IiMxMEI5ODEiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=",
+    "defaultWidth": 45,
+    "defaultHeight": 35
+  },
+  {
+    "Id": 39,
+    "name": "X Mark",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2IDE2TDQ4IDQ4TTE2IDQ4TDQ4IDE2IiBzdHJva2U9IiNFRjQ0NDQiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=",
+    "defaultWidth": 35,
+    "defaultHeight": 35
+  },
+  {
+    "Id": 40,
+    "name": "Plus Sign",
+    "category": "icons",
+    "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDEyVjUyTTEyIDMySDUyIiBzdHJva2U9IiM2MzY2RjEiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=",
+    "defaultWidth": 45,
+    "defaultHeight": 45
+  }
+]

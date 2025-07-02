@@ -142,9 +142,9 @@ const DesignCanvas = ({
         )}
       </div>
       
-      {/* Canvas Info */}
+{/* Canvas Info */}
       <div className="mt-2 text-xs text-gray-500 text-center">
-        {productType === 'tshirt' ? 'T-Shirt Design Area' : 'Mug Design Area'} • Click and drag to move elements
+        {productType === 'tshirt' ? 'T-Shirt Design Area' : 'Mug Design Area'} • Click and drag to move • Drop clipart here
       </div>
     </div>
   )

@@ -1,0 +1,329 @@
+[
+  {
+    "Id": 1,
+    "name": "Creative Minds",
+    "category": "motivation",
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "CREATIVE",
+          "color": "#000000",
+          "fontSize": 36,
+          "fontWeight": "bold",
+          "position": { "x": 80, "y": 60 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "MINDS",
+          "color": "#6366F1",
+          "fontSize": 36,
+          "fontWeight": "bold",
+          "position": { "x": 120, "y": 110 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 2,
+    "name": "Coffee Vibes",
+    "category": "lifestyle",
+    "productType": "mug",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "COFFEE",
+          "color": "#8B4513",
+          "fontSize": 28,
+          "fontWeight": "bold",
+          "position": { "x": 60, "y": 50 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "& CREATIVITY",
+          "color": "#D2691E",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "position": { "x": 70, "y": 85 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 3,
+    "name": "Adventure Awaits",
+    "category": "adventure",
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "ADVENTURE",
+          "color": "#10B981",
+          "fontSize": 32,
+          "fontWeight": "bold",
+          "position": { "x": 60, "y": 80 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "AWAITS",
+          "color": "#059669",
+          "fontSize": 24,
+          "fontWeight": "normal",
+          "position": { "x": 120, "y": 120 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 4,
+    "name": "Good Vibes Only",
+    "category": "motivation",
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "GOOD VIBES",
+          "color": "#F59E0B",
+          "fontSize": 30,
+          "fontWeight": "bold",
+          "position": { "x": 70, "y": 70 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "ONLY",
+          "color": "#D97706",
+          "fontSize": 24,
+          "fontWeight": "normal",
+          "position": { "x": 130, "y": 110 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 5,
+    "name": "Morning Motivation",
+    "category": "lifestyle",
+    "productType": "mug",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "RISE & GRIND",
+          "color": "#1F2937",
+          "fontSize": 24,
+          "fontWeight": "bold",
+          "position": { "x": 40, "y": 60 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 6,
+    "name": "Dream Big",
+    "category": "motivation",
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "DREAM",
+          "color": "#8B5CF6",
+          "fontSize": 40,
+          "fontWeight": "bold",
+          "position": { "x": 100, "y": 60 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "BIG",
+          "color": "#7C3AED",
+          "fontSize": 40,
+          "fontWeight": "bold",
+          "position": { "x": 140, "y": 110 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 7,
+    "name": "Explore More",
+    "category": "adventure",
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "EXPLORE",
+          "color": "#0891B2",
+          "fontSize": 28,
+          "fontWeight": "bold",
+          "position": { "x": 80, "y": 80 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "MORE",
+          "color": "#0E7490",
+          "fontSize": 28,
+          "fontWeight": "bold",
+          "position": { "x": 120, "y": 120 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 8,
+    "name": "Fuel Your Day",
+    "category": "lifestyle",
+    "productType": "mug",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "FUEL",
+          "color": "#DC2626",
+          "fontSize": 26,
+          "fontWeight": "bold",
+          "position": { "x": 70, "y": 50 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "YOUR DAY",
+          "color": "#B91C1C",
+          "fontSize": 18,
+          "fontWeight": "normal",
+          "position": { "x": 60, "y": 85 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 9,
+    "name": "Stay Wild",
+    "category": "adventure",
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "STAY",
+          "color": "#16A34A",
+          "fontSize": 34,
+          "fontWeight": "bold",
+          "position": { "x": 110, "y": 70 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "WILD",
+          "color": "#15803D",
+          "fontSize": 34,
+          "fontWeight": "bold",
+          "position": { "x": 120, "y": 110 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 10,
+    "name": "Boss Mode",
+    "category": "motivation",
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "BOSS",
+          "color": "#000000",
+          "fontSize": 38,
+          "fontWeight": "bold",
+          "position": { "x": 100, "y": 70 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "MODE",
+          "color": "#374151",
+          "fontSize": 24,
+          "fontWeight": "normal",
+          "position": { "x": 130, "y": 115 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 11,
+    "name": "Daily Dose",
+    "category": "lifestyle",
+    "productType": "mug",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "DAILY DOSE",
+          "color": "#7C2D12",
+          "fontSize": 22,
+          "fontWeight": "bold",
+          "position": { "x": 45, "y": 55 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "OF AWESOME",
+          "color": "#A16207",
+          "fontSize": 16,
+          "fontWeight": "normal",
+          "position": { "x": 50, "y": 85 }
+        }
+      ]
+    }
+  },
+  {
+    "Id": 12,
+    "name": "Nature Calls",
+    "category": "adventure",
+    "productType": "tshirt",
+    "designData": {
+      "elements": [
+        {
+          "id": "1",
+          "type": "text",
+          "content": "NATURE",
+          "color": "#166534",
+          "fontSize": 30,
+          "fontWeight": "bold",
+          "position": { "x": 90, "y": 75 }
+        },
+        {
+          "id": "2",
+          "type": "text",
+          "content": "CALLS",
+          "color": "#15803D",
+          "fontSize": 30,
+          "fontWeight": "bold",
+          "position": { "x": 110, "y": 115 }
+        }
+      ]
+    }
+  }
+]
